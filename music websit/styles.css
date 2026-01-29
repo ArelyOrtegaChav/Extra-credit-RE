@@ -1,0 +1,65 @@
+body, h1, h3{
+         text-align: center; 
+}
+
+p{
+  background-color:rgba(191, 255, 250, 0.459); border-radius:1000px;border-width:1500px; border-top: 1000px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  /* replace `school.jpg` with the actual file name of your image */
+  background-image: url("https://miro.medium.com/0*VBTmppB8deKTSWV-");
+  /* get background image from a url */
+ background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-position: center;
+}
+
+/* Title styling */
+h1 {
+  text-align: center;
+  color: white;       /* change this color if you want */
+  margin-top: 40px;
+  text-shadow: 2px 2px 4px black;
+}
+
+/* Center the table */
+table {
+  margin: 40px auto;
+  background-color: rgb(98, 192, 89);   /* table background color */
+  border-collapse: collapse;
+  min-width: 400px;
+}
+
+/* Borders for table, header, and data cells */
+table, th, td {
+  border: 1px solid rgb(4, 75, 19);
+}
+
+/* Table header styling */
+th {
+  padding: 10px;
+  background-color: #2b8148;
+}
+
+/* Table cell styling */
+td {
+  padding: 10px 26px;
+  text-align: left;
+}
+
+table, th, td {
+  border: 5px solid rgb(10, 94, 52);
+}
+table {
+  border-collapse: collapse; /* Merges borders */
+}
+
+p  {
+  text-align: center;
+  color: rgb(17, 53, 26);       /* change this color if you want */
+  margin-top: 40px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.288);
+}

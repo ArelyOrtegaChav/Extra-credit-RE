@@ -1,0 +1,25 @@
+
+.box-one{
+  background-color: crimson;
+  padding: 20px;
+   height: 40px;
+   width: 40px;
+   border: 10px solid red;
+   margin: 70px;
+}
+
+.box-two{
+     background-color: royalblue;
+  padding: 20px;
+   height: 40px;
+   width: 40px;
+   border: 10px solid rgb(76, 76, 168);
+   margin: 70px;
+
+}
+h4{
+    color: azure;
+}
+h5{
+color: cyan;
+}
