@@ -49,7 +49,7 @@ body {
   display: flex;
   flex-direction: row;
   /* colomn= vertical row= horizontal */
-  justify-content: space-around
+  justify-content: space-around;
    /* flex-end will push the items 
   the the way to the back or bottom of the container. */
   /* center will center the items */
